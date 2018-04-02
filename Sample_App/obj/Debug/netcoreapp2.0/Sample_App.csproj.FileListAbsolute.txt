@@ -1,0 +1,11 @@
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.csprojResolveAssemblyReference.cache
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.csproj.CoreCompileInputs.cache
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.AssemblyInfoInputs.cache
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.AssemblyInfo.cs
+/Users/bajab03/projects/Sample_App/Sample_App/bin/Debug/netcoreapp2.0/Sample_App.deps.json
+/Users/bajab03/projects/Sample_App/Sample_App/bin/Debug/netcoreapp2.0/Sample_App.runtimeconfig.json
+/Users/bajab03/projects/Sample_App/Sample_App/bin/Debug/netcoreapp2.0/Sample_App.runtimeconfig.dev.json
+/Users/bajab03/projects/Sample_App/Sample_App/bin/Debug/netcoreapp2.0/Sample_App.dll
+/Users/bajab03/projects/Sample_App/Sample_App/bin/Debug/netcoreapp2.0/Sample_App.pdb
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.dll
+/Users/bajab03/projects/Sample_App/Sample_App/obj/Debug/netcoreapp2.0/Sample_App.pdb

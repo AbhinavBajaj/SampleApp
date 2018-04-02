@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "e32fc3c746c8bb9f9dbfa326e040f895495a4a0f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Sample_App/1.0.0": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Clients.ActiveDirectory": "2.22.302111727"
+        },
+        "runtime": {
+          "Sample_App.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Clients.ActiveDirectory/2.22.302111727": {
+        "runtime": {
+          "lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll": {},
+          "lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sample_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.IdentityModel.Clients.ActiveDirectory/2.22.302111727": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7tIQCZ6l+4vIMSXtwoAHgUhVQFLXFynQ1knAs5IUDKshntSV31XFcQ2ntlPgGRUCMbsEFdqgYQp3A7YwO5csDw==",
+      "path": "microsoft.identitymodel.clients.activedirectory/2.22.302111727",
+      "hashPath": "microsoft.identitymodel.clients.activedirectory.2.22.302111727.nupkg.sha512"
+    }
+  }
+}
